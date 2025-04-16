@@ -5,7 +5,6 @@ import io
 import base64
 from dash import html
 
-
 # Read mission launches as data frame
 df = pd.read_csv("Project-Template/data/raw/mission_launches.csv")
 

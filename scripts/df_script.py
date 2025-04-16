@@ -111,8 +111,5 @@ merged_df['average_humidity'] = avg_humidities
 final_df = merged_df[['mission_name', 'date_utc', 'latitude', 'longitude', 'rocket_type', 'payload_type', 'mass_kg', 'orbit', 'launch_location', 'launch_region', 'average_temp', 'average_wind_speed', 'average_humidity','success']] # final df with all merged and necessary data
 final_df.to_csv("Project-Template/data/raw/spacex_df.csv")
 
-
-
-
 print(final_df)
 print("Data frame processed.")
