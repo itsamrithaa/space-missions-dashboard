@@ -1,0 +1,206 @@
+,mission_name,date_utc,latitude,longitude,rocket_type,payload_type,mass_kg,orbit,launch_location,launch_region,average_temp,average_wind_speed,average_humidity,success
+0,FalconSat,2006-03-24 22:30:00+00:00,9.0477206,,Falcon 1,Satellite,20.0,LEO,Omelek Island,Marshall Islands,,,,False
+1,DemoSat,2007-03-21 01:10:00+00:00,9.0477206,,Falcon 1,Satellite,,LEO,Omelek Island,Marshall Islands,,,,False
+2,Trailblazer,2008-08-03 03:34:00+00:00,9.0477206,,Falcon 1,Satellite,,LEO,Omelek Island,Marshall Islands,,,,False
+3,RatSat,2008-09-28 23:15:00+00:00,9.0477206,,Falcon 1,Satellite,165.0,LEO,Omelek Island,Marshall Islands,,,,True
+4,RazakSat,2009-07-13 03:35:00+00:00,9.0477206,,Falcon 1,Satellite,200.0,LEO,Omelek Island,Marshall Islands,,,,True
+5,Falcon 9 Test Flight,2010-06-04 18:45:00+00:00,28.5618571,,Falcon 9,Dragon Boilerplate,,LEO,Cape Canaveral,Florida,,,,True
+6,COTS 1,2010-12-08 15:43:00+00:00,28.5618571,,Falcon 9,Dragon 1.0,,LEO,Cape Canaveral,Florida,,,,True
+7,COTS 2,2012-05-22 07:44:00+00:00,28.5618571,,Falcon 9,Dragon 1.0,525.0,LEO,Cape Canaveral,Florida,,,,True
+8,CRS-1,2012-10-08 00:35:00+00:00,28.5618571,,Falcon 9,Dragon 1.0,400.0,ISS,Cape Canaveral,Florida,,,,True
+9,CRS-2,2013-03-01 19:10:00+00:00,28.5618571,,Falcon 9,Dragon 1.0,677.0,ISS,Cape Canaveral,Florida,,,,True
+10,CASSIOPE,2013-09-29 16:00:00+00:00,34.632093,,Falcon 9,Satellite,500.0,PO,Vandenberg Space Force Base,California,,,,True
+11,SES-8,2013-12-03 22:41:00+00:00,28.5618571,95.0,Falcon 9,Satellite,3170.0,GTO,Cape Canaveral,Florida,7.841666666666666,3.1333333333333333,69.125,True
+12,Thaicom 6,2014-01-06 18:06:00+00:00,28.5618571,78.5,Falcon 9,Satellite,3325.0,GTO,Cape Canaveral,Florida,12.149999999999999,10.145833333333334,71.125,True
+13,CRS-3,2014-04-18 19:25:00+00:00,28.5618571,,Falcon 9,Dragon 1.1,2296.0,ISS,Cape Canaveral,Florida,,,,True
+14,OG-2 Mission 1,2014-07-14 15:15:00+00:00,28.5618571,,Falcon 9,Satellite,1316.0,LEO,Cape Canaveral,Florida,,,,True
+15,AsiaSat 8,2014-08-05 08:00:00+00:00,28.5618571,105.5,Falcon 9,Satellite,4535.0,GTO,Cape Canaveral,Florida,29.441666666666666,3.779166666666667,77.41666666666667,True
+16,AsiaSat 6,2014-09-07 05:00:00+00:00,28.5618571,120.0,Falcon 9,Satellite,4428.0,GTO,Cape Canaveral,Florida,23.675,3.9916666666666667,84.95833333333333,True
+17,CRS-4,2014-09-21 05:52:00+00:00,28.5618571,,Falcon 9,Dragon 1.1,2216.0,ISS,Cape Canaveral,Florida,,,,True
+18,CRS-5,2015-01-10 09:47:00+00:00,28.5618571,,Falcon 9,Dragon 1.1,2395.0,ISS,Cape Canaveral,Florida,,,,True
+19,DSCOVR,2015-02-11 23:03:00+00:00,28.5618571,,Falcon 9,Satellite,570.0,ES-L1,Cape Canaveral,Florida,,,,True
+20,ABS-3A / Eutelsat 115W B,2015-03-02 03:50:00+00:00,28.5618571,-3.0,Falcon 9,Satellite,1954.0,GTO,Cape Canaveral,Florida,16.291666666666668,14.041666666666666,39.125,True
+21,CRS-6,2015-04-14 20:10:00+00:00,28.5618571,,Falcon 9,Dragon 1.1,1898.0,ISS,Cape Canaveral,Florida,,,,True
+22,TürkmenÄlem 52°E / MonacoSAT,2015-04-27 23:03:00+00:00,28.5618571,52.0,Falcon 9,Satellite,4707.0,GTO,Cape Canaveral,Florida,27.945833333333336,7.629166666666666,14.458333333333334,True
+23,CRS-7,2015-06-28 14:21:00+00:00,28.5618571,,Falcon 9,Dragon 1.1,2477.0,ISS,Cape Canaveral,Florida,,,,False
+24,OG-2 Mission 2,2015-12-22 01:29:00+00:00,28.5618571,,Falcon 9,Satellite,2034.0,LEO,Cape Canaveral,Florida,,,,True
+25,Jason 3,2016-01-17 15:42:00+00:00,34.632093,,Falcon 9,Satellite,553.0,PO,Vandenberg Space Force Base,California,,,,True
+26,SES-9,2016-03-04 23:35:00+00:00,28.5618571,108.2,Falcon 9,Satellite,5271.0,GTO,Cape Canaveral,Florida,11.725,3.3541666666666665,91.20833333333333,True
+27,CRS-8,2016-04-08 20:43:00+00:00,28.5618571,,Falcon 9,Dragon 1.1,3136.0,ISS,Cape Canaveral,Florida,,,,True
+28,JCSAT-2B,2016-05-06 05:21:00+00:00,28.5618571,154.0,Falcon 9,Satellite,4696.0,GTO,Cape Canaveral,Florida,21.866666666666664,15.9625,85.54166666666667,True
+29,Thaicom 8,2016-05-27 21:39:00+00:00,28.5618571,78.5,Falcon 9,Satellite,3100.0,GTO,Cape Canaveral,Florida,32.387499999999996,8.683333333333334,50.541666666666664,True
+30,ABS-2A / Eutelsat 117W B,2016-06-15 14:29:00+00:00,28.5618571,75.0,Falcon 9,Satellite,1800.0,GTO,Cape Canaveral,Florida,35.87083333333333,22.383333333333336,36.541666666666664,True
+31,CRS-9,2016-07-18 04:45:00+00:00,28.5618571,,Falcon 9,Dragon 1.1,2257.0,ISS,Cape Canaveral,Florida,,,,True
+32,JCSAT-16,2016-08-14 05:26:00+00:00,28.5618571,162.0,Falcon 9,Satellite,4600.0,GTO,Cape Canaveral,Florida,26.175,31.95,86.375,True
+33,Amos-6,2016-09-01 13:07:00+00:00,28.5618571,-4.0,Falcon 9,Satellite,5500.0,GTO,Cape Canaveral,Florida,35.375,14.833333333333334,16.125,False
+34,Iridium NEXT Mission 1,2017-01-14 17:54:00+00:00,34.632093,,Falcon 9,Satellite,9600.0,PO,Vandenberg Space Force Base,California,,,,True
+35,CRS-10,2017-02-19 14:39:00+00:00,28.6080585,,Falcon 9,Dragon 1.1,2490.0,ISS,Cape Canaveral,Florida,,,,True
+36,EchoStar 23,2017-03-16 06:00:00+00:00,28.6080585,-44.9,Falcon 9,Satellite,5600.0,GTO,Cape Canaveral,Florida,20.879166666666666,33.61666666666667,70.125,True
+37,SES-10,2017-03-30 22:27:00+00:00,28.6080585,-67.0,Falcon 9,Satellite,5300.0,GTO,Cape Canaveral,Florida,20.520833333333332,24.754166666666666,75.20833333333333,True
+38,NROL-76,2017-05-01 11:15:00+00:00,28.6080585,,Falcon 9,Satellite,,LEO,Cape Canaveral,Florida,,,,True
+39,Inmarsat-5 F4,2017-05-15 23:21:00+00:00,28.6080585,117.0,Falcon 9,Satellite,6070.0,GTO,Cape Canaveral,Florida,20.833333333333332,5.933333333333334,80.58333333333333,True
+40,CRS-11,2017-06-03 21:07:00+00:00,28.6080585,,Falcon 9,Dragon 1.1,2708.0,ISS,Cape Canaveral,Florida,,,,True
+41,BulgariaSat-1,2017-06-23 19:10:00+00:00,28.6080585,1.9,Falcon 9,Satellite,3669.0,GTO,Cape Canaveral,Florida,34.137499999999996,21.279166666666665,15.791666666666666,True
+42,Iridium NEXT Mission 2,2017-06-25 20:25:00+00:00,34.632093,,Falcon 9,Satellite,9600.0,PO,Vandenberg Space Force Base,California,,,,True
+43,Intelsat 35e,2017-07-05 23:35:00+00:00,28.6080585,-34.5,Falcon 9,Satellite,6761.0,GTO,Cape Canaveral,Florida,23.325,21.337500000000002,76.83333333333333,True
+44,CRS-12,2017-08-14 16:31:00+00:00,28.6080585,,Falcon 9,Dragon 1.1,2910.0,ISS,Cape Canaveral,Florida,,,,True
+45,FormoSat-5,2017-08-24 18:50:00+00:00,34.632093,,Falcon 9,Satellite,475.0,SSO,Vandenberg Space Force Base,California,,,,True
+46,Boeing X-37B OTV-5,2017-09-07 13:50:00+00:00,28.6080585,,Falcon 9,Satellite,4990.0,LEO,Cape Canaveral,Florida,,,,True
+47,Iridium NEXT Mission 3,2017-10-09 12:37:00+00:00,34.632093,,Falcon 9,Satellite,9600.0,PO,Vandenberg Space Force Base,California,,,,True
+48,SES-11 / Echostar 105,2017-10-11 22:53:00+00:00,28.6080585,-105.0,Falcon 9,Satellite,5200.0,GTO,Cape Canaveral,Florida,18.9875,12.720833333333333,50.583333333333336,True
+49,KoreaSat 5A,2017-10-30 19:34:00+00:00,28.6080585,113.0,Falcon 9,Satellite,3700.0,GTO,Cape Canaveral,Florida,10.704166666666666,7.9624999999999995,62.875,True
+50,CRS-13,2017-12-15 15:36:00+00:00,28.5618571,,Falcon 9,Dragon 1.1,2205.0,ISS,Cape Canaveral,Florida,,,,True
+51,Iridium NEXT Mission 4,2017-12-23 01:27:23+00:00,34.632093,,Falcon 9,Satellite,9600.0,PO,Vandenberg Space Force Base,California,,,,True
+52,ZUMA,2018-01-08 01:00:00+00:00,28.5618571,,Falcon 9,Satellite,,LEO,Cape Canaveral,Florida,,,,True
+53,SES-16 / GovSat-1,2018-01-31 21:25:00+00:00,28.5618571,21.5,Falcon 9,Satellite,4230.0,GTO,Cape Canaveral,Florida,11.195833333333333,10.133333333333333,60.0,True
+54,Falcon Heavy Test Flight,2018-02-06 20:45:00+00:00,28.6080585,,Falcon Heavy,Satellite,1350.0,HCO,Cape Canaveral,Florida,,,,True
+55,Paz / Starlink Demo,2018-02-22 14:17:00+00:00,34.632093,,Falcon 9,Satellite,1350.0,SSO,Vandenberg Space Force Base,California,,,,True
+56,Hispasat 30W-6,2018-03-06 05:33:00+00:00,28.5618571,-30.0,Falcon 9,Satellite,6092.0,GTO,Cape Canaveral,Florida,19.925,25.754166666666666,85.08333333333333,True
+57,Iridium NEXT Mission 5,2018-03-30 14:13:51+00:00,34.632093,,Falcon 9,Satellite,9600.0,PO,Vandenberg Space Force Base,California,,,,True
+58,CRS-14,2018-04-02 20:30:41+00:00,28.5618571,,Falcon 9,Dragon 1.1,2760.0,ISS,Cape Canaveral,Florida,,,,True
+59,TESS,2018-04-18 22:51:00+00:00,28.5618571,,Falcon 9,Satellite,350.0,HEO,Cape Canaveral,Florida,,,,True
+60,Bangabandhu-1,2018-05-11 20:14:00+00:00,28.6080585,119.1,Falcon 9,Satellite,3750.0,GTO,Cape Canaveral,Florida,17.520833333333332,2.3583333333333334,76.95833333333333,True
+61,Iridium NEXT Mission 6,2018-05-22 19:47:58+00:00,34.632093,,Falcon 9,Satellite,4300.0,PO,Vandenberg Space Force Base,California,,,,True
+62,SES-12,2018-06-04 04:45:00+00:00,28.5618571,95.0,Falcon 9,Satellite,5383.85,GTO,Cape Canaveral,Florida,16.295833333333334,3.8249999999999997,80.79166666666667,True
+63,CRS-15,2018-06-29 09:42:00+00:00,28.5618571,,Falcon 9,Dragon 1.1,2410.0,ISS,Cape Canaveral,Florida,,,,True
+64,Telstar 19V,2018-07-22 05:50:00+00:00,28.5618571,-65.0,Falcon 9,Satellite,7076.0,GTO,Cape Canaveral,Florida,26.075,24.09583333333333,79.29166666666667,True
+65,Iridium NEXT Mission 7,2018-07-25 11:39:26+00:00,34.632093,,Falcon 9,Satellite,9600.0,PO,Vandenberg Space Force Base,California,,,,True
+66,Merah Putih,2018-08-07 05:18:00+00:00,28.5618571,-108.0,Falcon 9,Satellite,5800.0,GTO,Cape Canaveral,Florida,19.55,5.533333333333334,63.916666666666664,True
+67,Telstar 18V,2018-09-10 04:45:00+00:00,28.5618571,138.0,Falcon 9,Satellite,7060.0,GTO,Cape Canaveral,Florida,27.354166666666668,10.9125,83.25,True
+68,SAOCOM 1A,2018-10-08 02:22:00+00:00,34.632093,,Falcon 9,Satellite,2800.0,SSO,Vandenberg Space Force Base,California,,,,True
+69,Es’hail 2,2018-11-15 20:46:00+00:00,28.6080585,25.5,Falcon 9,Satellite,3000.0,GTO,Cape Canaveral,Florida,15.141666666666666,12.887500000000001,70.83333333333333,True
+70,SSO-A,2018-12-03 18:34:00+00:00,34.632093,,Falcon 9,Satellite,4000.0,SSO,Vandenberg Space Force Base,California,,,,True
+71,CRS-16,2018-12-05 18:16:00+00:00,28.5618571,,Falcon 9,Dragon 1.1,2573.0,ISS,Cape Canaveral,Florida,,,,True
+72,GPS III SV01,2018-12-23 13:51:00+00:00,28.5618571,,Falcon 9,Satellite,4400.0,MEO,Cape Canaveral,Florida,,,,True
+73,Iridium NEXT Mission 8,2019-01-11 15:31:00+00:00,34.632093,,Falcon 9,Satellite,9600.0,PO,Vandenberg Space Force Base,California,,,,True
+74,Nusantara Satu (PSN-6) / S5 / Beresheet,2019-02-22 01:45:00+00:00,28.5618571,146.0,Falcon 9,Satellite,5000.0,GTO,Cape Canaveral,Florida,19.254166666666666,17.675,66.5,True
+75,CCtCap Demo Mission 1,2019-03-02 07:45:00+00:00,28.6080585,,Falcon 9,Crew Dragon,12259.0,ISS,Cape Canaveral,Florida,,,,True
+76,ArabSat 6A,2019-04-11 22:35:00+00:00,28.6080585,30.5,Falcon Heavy,Satellite,6000.0,GTO,Cape Canaveral,Florida,20.216666666666665,15.987499999999999,33.416666666666664,True
+77,CRS-17,2019-05-04 06:48:00+00:00,28.5618571,,Falcon 9,Dragon 1.1,2482.0,ISS,Cape Canaveral,Florida,,,,True
+78,Starlink v0.9,2019-05-24 02:30:00+00:00,28.5618571,,Falcon 9,Satellite,13200.0,VLEO,Cape Canaveral,Florida,,,,True
+79,RADARSAT Constellation,2019-06-12 14:17:00+00:00,34.632093,,Falcon 9,Satellite,1425.0,SSO,Vandenberg Space Force Base,California,,,,True
+80,STP-2,2019-06-25 03:30:00+00:00,28.6080585,,Falcon Heavy,Satellite,600.0,MEO,Cape Canaveral,Florida,,,,True
+81,CRS-18,2019-07-25 22:01:00+00:00,28.5618571,,Falcon 9,Dragon 1.1,2227.7,ISS,Cape Canaveral,Florida,,,,True
+82,Amos-17,2019-08-06 22:52:00+00:00,28.5618571,17.0,Falcon 9,Satellite,6500.0,GTO,Cape Canaveral,Florida,27.7625,15.929166666666667,43.375,True
+83,Starlink-1,2019-11-11 14:56:00+00:00,28.5618571,,Falcon 9,Satellite,15600.0,VLEO,Cape Canaveral,Florida,,,,True
+84,CRS-19,2019-12-05 17:29:23+00:00,28.5618571,,Falcon 9,Dragon 1.1,5000.0,ISS,Cape Canaveral,Florida,,,,True
+85,JCSat 18 / Kacific 1,2019-12-17 00:10:00+00:00,28.5618571,,Falcon 9,Satellite,6800.0,GTO,Cape Canaveral,Florida,,,,True
+86,Starlink-2,2020-01-07 02:19:00+00:00,28.5618571,,Falcon 9,Satellite,15600.0,VLEO,Cape Canaveral,Florida,,,,True
+87,Crew Dragon In Flight Abort Test,2020-01-19 14:00:00+00:00,28.6080585,,Falcon 9,Crew Dragon,,SO,Cape Canaveral,Florida,,,,True
+88,Starlink-3,2020-01-29 14:06:00+00:00,28.5618571,,Falcon 9,Satellite,15600.0,VLEO,Cape Canaveral,Florida,,,,True
+89,Starlink-4,2020-02-17 15:05:55+00:00,28.5618571,,Falcon 9,Satellite,15600.0,VLEO,Cape Canaveral,Florida,,,,True
+90,CRS-20,2020-03-07 04:50:31+00:00,28.5618571,,Falcon 9,Dragon 1.1,1977.0,ISS,Cape Canaveral,Florida,,,,True
+91,Starlink-5,2020-03-18 12:16:00+00:00,28.6080585,,Falcon 9,Satellite,15600.0,VLEO,Cape Canaveral,Florida,,,,True
+92,Starlink-6,2020-04-22 19:30:00+00:00,28.6080585,,Falcon 9,Satellite,15600.0,VLEO,Cape Canaveral,Florida,,,,True
+93,CCtCap Demo Mission 2,2020-05-30 19:22:00+00:00,28.6080585,,Falcon 9,Crew Dragon,9525.0,ISS,Cape Canaveral,Florida,,,,True
+94,Starlink-7,2020-06-04 01:25:00+00:00,28.5618571,,Falcon 9,Satellite,15600.0,VLEO,Cape Canaveral,Florida,,,,True
+95,Starlink-8 & SkySat 16-18,2020-06-13 09:21:00+00:00,28.5618571,,Falcon 9,Satellite,15600.0,VLEO,Cape Canaveral,Florida,,,,True
+96,GPS III SV03 (Columbus),2020-06-30 19:55:00+00:00,28.5618571,,Falcon 9,Satellite,3880.0,MEO,Cape Canaveral,Florida,,,,True
+97,ANASIS-II,2020-07-20 21:30:00+00:00,28.5618571,,Falcon 9,Satellite,,GEO,Cape Canaveral,Florida,,,,True
+98,Starlink-9 (v1.0) & BlackSky Global 5-6,2020-08-07 05:12:00+00:00,28.6080585,,Falcon 9,Satellite,15600.0,VLEO,Cape Canaveral,Florida,,,,True
+99,Starlink-10 (v1.0) & SkySat 19-21,2020-08-18 14:31:00+00:00,28.5618571,,Falcon 9,Satellite,15600.0,VLEO,Cape Canaveral,Florida,,,,True
+100,"SAOCOM 1B, GNOMES-1, Tyvak-0172",2020-08-30 23:18:00+00:00,28.5618571,,Falcon 9,Satellite,1600.0,SSO,Cape Canaveral,Florida,,,,True
+101,Starlink-11 (v1.0),2020-09-03 12:46:00+00:00,28.6080585,,Falcon 9,Satellite,15600.0,VLEO,Cape Canaveral,Florida,,,,True
+102,Starlink-12 (v1.0),2020-10-06 11:29:00+00:00,28.6080585,,Falcon 9,Satellite,15600.0,VLEO,Cape Canaveral,Florida,,,,True
+103,Starlink-13 (v1.0),2020-10-18 12:25:00+00:00,28.6080585,,Falcon 9,Satellite,15600.0,VLEO,Cape Canaveral,Florida,,,,True
+104,Starlink-14 (v1.0),2020-10-24 15:31:00+00:00,28.5618571,,Falcon 9,Satellite,15600.0,VLEO,Cape Canaveral,Florida,,,,True
+105,GPS III SV04 (Sacagawea),2020-11-05 23:24:00+00:00,28.5618571,,Falcon 9,Satellite,3681.0,MEO,Cape Canaveral,Florida,,,,True
+106,Crew-1,2020-11-16 00:27:00+00:00,28.6080585,,Falcon 9,Crew Dragon,,ISS,Cape Canaveral,Florida,,,,True
+107,Sentinel-6 Michael Freilich,2020-11-21 17:17:00+00:00,34.632093,,Falcon 9,Satellite,1440.0,PO,Vandenberg Space Force Base,California,,,,True
+108,Starlink-15 (v1.0),2020-11-25 02:13:00+00:00,28.5618571,,Falcon 9,Satellite,15600.0,VLEO,Cape Canaveral,Florida,,,,True
+109,CRS-21,2020-12-06 16:17:00+00:00,28.6080585,,Falcon 9,Dragon 2.0,2972.0,ISS,Cape Canaveral,Florida,,,,True
+110,SXM-7,2020-12-13 17:30:00+00:00,28.5618571,-85.15,Falcon 9,Satellite,7000.0,GTO,Cape Canaveral,Florida,22.491666666666664,18.654166666666665,80.20833333333333,True
+111,NROL-108,2020-12-19 14:00:00+00:00,28.6080585,,Falcon 9,Satellite,,,Cape Canaveral,Florida,,,,True
+112,Turksat 5A,2021-01-08 02:15:00+00:00,28.5618571,31.0,Falcon 9,Satellite,3500.0,GTO,Cape Canaveral,Florida,18.162499999999998,10.0875,45.583333333333336,True
+113,Starlink-16 (v1.0),2021-01-20 13:02:00+00:00,28.6080585,,Falcon 9,Satellite,15600.0,VLEO,Cape Canaveral,Florida,,,,True
+114,Transporter-1,2021-01-24 15:00:00+00:00,28.5618571,,Falcon 9,Satellite,,SSO,Cape Canaveral,Florida,,,,True
+115,Starlink-18 (v1.0),2021-02-04 06:19:00+00:00,28.5618571,,Falcon 9,Satellite,15600.0,VLEO,Cape Canaveral,Florida,,,,True
+116,Starlink-19 (v1.0),2021-02-16 03:59:00+00:00,28.5618571,,Falcon 9,Satellite,15600.0,VLEO,Cape Canaveral,Florida,,,,True
+117,Starlink-17 (v1.0),2021-03-04 08:24:00+00:00,28.6080585,,Falcon 9,Satellite,15600.0,VLEO,Cape Canaveral,Florida,,,,True
+118,Starlink-20 (v1.0),2021-03-11 08:13:00+00:00,28.5618571,,Falcon 9,Satellite,15600.0,VLEO,Cape Canaveral,Florida,,,,True
+119,Starlink-21 (v1.0),2021-03-14 10:01:00+00:00,28.6080585,,Falcon 9,Satellite,15600.0,VLEO,Cape Canaveral,Florida,,,,True
+120,Starlink-22 (v1.0),2021-03-24 08:28:00+00:00,28.5618571,,Falcon 9,Satellite,15600.0,VLEO,Cape Canaveral,Florida,,,,True
+121,Starlink-23 (v1.0),2021-04-07 16:34:00+00:00,28.5618571,,Falcon 9,Satellite,15600.0,VLEO,Cape Canaveral,Florida,,,,True
+122,Crew-2,2021-04-23 09:49:00+00:00,28.6080585,,Falcon 9,Crew Dragon,,ISS,Cape Canaveral,Florida,,,,True
+123,Starlink-24 (v1.0),2021-04-29 03:44:00+00:00,28.5618571,,Falcon 9,Satellite,15600.0,VLEO,Cape Canaveral,Florida,,,,True
+124,Starlink-25 (v1.0),2021-05-04 19:01:00+00:00,28.6080585,,Falcon 9,Satellite,15600.0,VLEO,Cape Canaveral,Florida,,,,True
+125,Starlink-27 (v1.0),2021-05-09 06:42:00+00:00,28.5618571,,Falcon 9,Satellite,15600.0,VLEO,Cape Canaveral,Florida,,,,True
+126,Starlink-26 (v1.0) + Capella-6 + Tyvak-0130,2021-05-15 22:54:00+00:00,28.6080585,,Falcon 9,Satellite,13520.0,VLEO,Cape Canaveral,Florida,,,,True
+127,Starlink-28 (v1.0),2021-05-26 18:59:00+00:00,28.5618571,,Falcon 9,Satellite,15600.0,VLEO,Cape Canaveral,Florida,,,,True
+128,CRS-22 & IROSA,2021-06-03 17:29:00+00:00,28.6080585,,Falcon 9,Dragon 2.0,3328.0,ISS,Cape Canaveral,Florida,,,,True
+129,SXM-8,2021-06-06 04:26:00+00:00,28.5618571,,Falcon 9,Satellite,7000.0,GTO,Cape Canaveral,Florida,,,,True
+130,GPS III SV05,2021-06-17 16:09:00+00:00,28.5618571,,Falcon 9,Satellite,3681.0,MEO,Cape Canaveral,Florida,,,,True
+131,Transporter-2,2021-06-30 19:31:00+00:00,28.5618571,,Falcon 9,Satellite,,SSO,Cape Canaveral,Florida,,,,True
+132,CRS-23,2021-08-29 07:14:00+00:00,28.6080585,,Falcon 9,Dragon 2.0,,ISS,Cape Canaveral,Florida,,,,True
+133,Starlink 2-1 (v1.5),2021-09-14 03:55:00+00:00,34.632093,,Falcon 9,Satellite,15600.0,PO,Vandenberg Space Force Base,California,,,,True
+134,Inspiration4,2021-09-16 00:02:00+00:00,28.6080585,,Falcon 9,Crew Dragon,,LEO,Cape Canaveral,Florida,,,,True
+135,Crew-3,2021-11-11 02:03:00+00:00,28.6080585,,Falcon 9,Crew Dragon,12519.0,ISS,Cape Canaveral,Florida,,,,True
+136,Starlink 4-1 (v1.5),2021-11-13 12:40:00+00:00,28.5618571,,Falcon 9,Satellite,13260.0,LEO,Cape Canaveral,Florida,,,,True
+137,DART,2021-11-24 06:20:00+00:00,34.632093,31.0,Falcon 9,Satellite,670.0,TLI,Vandenberg Space Force Base,California,19.795833333333334,14.570833333333333,70.625,True
+138,Starlink 4-3 (v1.5),2021-12-01 23:20:00+00:00,28.5618571,,Falcon 9,Satellite,13260.0,PO,Cape Canaveral,Florida,,,,True
+139,IXPE,2021-12-09 06:00:00+00:00,28.6080585,,Falcon 9,Satellite,330.0,LEO,Cape Canaveral,Florida,,,,True
+140,Starlink 4-4 (v1.5),2021-12-18 12:41:40+00:00,34.632093,,Falcon 9,Satellite,13260.0,PO,Vandenberg Space Force Base,California,,,,True
+141,Türksat 5B,2021-12-19 03:58:00+00:00,28.5618571,31.0,Falcon 9,Satellite,3500.0,GTO,Cape Canaveral,Florida,13.0875,17.724999999999998,52.583333333333336,True
+142,CRS-24,2021-12-21 10:06:00+00:00,28.6080585,,Falcon 9,Dragon 2.0,,ISS,Cape Canaveral,Florida,,,,True
+143,Starlink 4-5 (v1.5),2022-01-06 21:49:00+00:00,28.6080585,,Falcon 9,Satellite,13260.0,VLEO,Cape Canaveral,Florida,,,,True
+144,Transporter-3,2022-01-13 15:25:00+00:00,28.5618571,,Falcon 9,Satellite,,LEO,Cape Canaveral,Florida,,,,True
+145,Starlink 4-6 (v1.5),2022-01-19 00:04:00+00:00,28.6080585,,Falcon 9,Satellite,13260.0,VLEO,Cape Canaveral,Florida,,,,True
+146,CSG-2,2022-01-31 23:11:12+00:00,28.5618571,,Falcon 9,Satellite,2240.0,SSO,Cape Canaveral,Florida,,,,True
+147,NROL-87,2022-02-02 20:18:00+00:00,34.632093,,Falcon 9,Satellite,,LEO,Vandenberg Space Force Base,California,,,,True
+148,Starlink 4-7 (v1.5),2022-02-03 18:13:00+00:00,28.6080585,,Falcon 9,Satellite,13260.0,VLEO,Cape Canaveral,Florida,,,,True
+149,Starlink 4-8 (v1.5),2022-02-21 14:44:00+00:00,28.5618571,,Falcon 9,Satellite,13260.0,VLEO,Cape Canaveral,Florida,,,,True
+150,Starlink 4-11 (v1.5),2022-02-25 17:12:00+00:00,34.632093,,Falcon 9,Satellite,13260.0,VLEO,Vandenberg Space Force Base,California,,,,True
+151,Starlink 4-9 (v1.5),2022-03-03 14:35:00+00:00,28.6080585,,Falcon 9,Satellite,13260.0,VLEO,Cape Canaveral,Florida,,,,True
+152,Starlink 4-10 (v1.5),2022-03-09 13:45:00+00:00,28.5618571,,Falcon 9,Satellite,13260.0,VLEO,Cape Canaveral,Florida,,,,True
+153,Starlink 4-12 (v1.5),2022-03-19 03:24:00+00:00,28.5618571,,Falcon 9,Satellite,13260.0,VLEO,Cape Canaveral,Florida,,,,True
+154,Transporter-4,2022-04-01 16:24:00+00:00,28.5618571,,Falcon 9,Satellite,,SSO,Cape Canaveral,Florida,,,,True
+155,Ax-1,2022-04-08 15:17:00+00:00,28.6080585,,Falcon 9,Dragon 2.0,,ISS,Cape Canaveral,Florida,,,,True
+156,NROL-85,2022-04-17 13:13:00+00:00,34.632093,,Falcon 9,Satellite,,LEO,Vandenberg Space Force Base,California,,,,True
+157,Starlink 4-14 (v1.5),2022-04-21 15:16:00+00:00,28.5618571,,Falcon 9,Satellite,13260.0,VLEO,Cape Canaveral,Florida,,,,True
+158,Crew-4,2022-04-27 07:52:00+00:00,28.6080585,,Falcon 9,Crew Dragon,,ISS,Cape Canaveral,Florida,,,,True
+159,Starlink 4-16 (v1.5),2022-04-29 21:27:00+00:00,28.5618571,,Falcon 9,Satellite,13260.0,VLEO,Cape Canaveral,Florida,,,,True
+160,Starlink 4-17 (v1.5),2022-05-06 09:42:00+00:00,28.6080585,,Falcon 9,Satellite,13260.0,VLEO,Cape Canaveral,Florida,,,,True
+161,Starlink 4-13 (v1.5),2022-05-13 22:07:00+00:00,34.632093,,Falcon 9,Satellite,13260.0,VLEO,Vandenberg Space Force Base,California,,,,True
+162,Starlink 4-15 (v1.5),2022-05-14 20:40:00+00:00,28.5618571,,Falcon 9,Satellite,13260.0,VLEO,Cape Canaveral,Florida,,,,True
+163,Starlink 4-18 (v1.5),2022-05-18 10:40:00+00:00,28.6080585,,Falcon 9,Satellite,13260.0,VLEO,Cape Canaveral,Florida,,,,True
+164,Transporter-5,2022-05-25 18:27:00+00:00,28.5618571,,Falcon 9,Satellite,,SSO,Cape Canaveral,Florida,,,,True
+165,Nilesat-301,2022-06-08 21:04:00+00:00,28.5618571,,Falcon 9,Satellite,3938.0,GEO,Cape Canaveral,Florida,,,,True
+166,Starlink 4-19 (v1.5),2022-06-01 17:08:50+00:00,28.6080585,,Falcon 9,Satellite,13260.0,VLEO,Cape Canaveral,Florida,,,,True
+167,SARah 1,2022-06-18 14:19:00+00:00,34.632093,,Falcon 9,Satellite,2200.0,SSO,Vandenberg Space Force Base,California,,,,True
+168,Globalstar FM15,2022-06-19 04:27:00+00:00,28.5618571,,Falcon 9,Satellite,700.0,LEO,Cape Canaveral,Florida,,,,True
+169,SES-22,2022-06-29 21:04:00+00:00,28.5618571,,Falcon 9,Satellite,3500.0,MEO,Cape Canaveral,Florida,,,,True
+170,Starlink 4-21 (v1.5),2022-07-07 13:11:00+00:00,28.5618571,,Falcon 9,Satellite,13260.0,VLEO,Cape Canaveral,Florida,,,,True
+171,Starlink 3-1 (v1.5),2022-07-11 01:39:00+00:00,34.632093,,Falcon 9,Satellite,13260.0,VLEO,Vandenberg Space Force Base,California,,,,
+172,CRS-25,2022-07-15 00:44:00+00:00,28.6080585,,Falcon 9,Dragon 2.0,,ISS,Cape Canaveral,Florida,,,,True
+173,Starlink 4-22 (v1.5),2022-07-17 14:50:00+00:00,28.5618571,,Falcon 9,Satellite,13260.0,VLEO,Cape Canaveral,Florida,,,,True
+174,Starlink 3-2 (v1.5),2022-07-21 17:13:00+00:00,34.632093,,Falcon 9,Satellite,13260.0,VLEO,Vandenberg Space Force Base,California,,,,True
+175,Starlink 4-25 (v1.5),2022-07-24 00:00:00+00:00,28.5618571,,Falcon 9,Satellite,13260.0,VLEO,Cape Canaveral,Florida,,,,True
+176,KPLO,2022-08-04 23:08:00+00:00,28.5618571,,Falcon 9,Satellite,678.0,TLI,Cape Canaveral,Florida,,,,True
+177,Starlink 4-26 (v1.5),2022-08-09 22:57:00+00:00,28.6080585,,Falcon 9,Satellite,13260.0,VLEO,Cape Canaveral,Florida,,,,True
+178,Starlink 3-3 (v1.5),2022-08-12 21:30:00+00:00,34.632093,,Falcon 9,Satellite,13260.0,VLEO,Vandenberg Space Force Base,California,,,,True
+179,Starlink 4-27 (v1.5),2022-08-19 19:24:00+00:00,28.5618571,,Falcon 9,Satellite,13260.0,VLEO,Cape Canaveral,Florida,,,,True
+180,Starlink 4-23 (v1.5),2022-08-28 02:22:00+00:00,28.6080585,,Falcon 9,Satellite,13260.0,VLEO,Cape Canaveral,Florida,,,,True
+181,Starlink 3-4 (v1.5),2022-08-31 05:40:00+00:00,34.632093,,Falcon 9,Satellite,13260.0,VLEO,Vandenberg Space Force Base,California,,,,True
+182,Starlink 4-20 (v1.5) & Sherpa LTC-2/Varuna-TDM,2022-09-05 02:09:00+00:00,28.5618571,,Falcon 9,Satellite,13260.0,VLEO,Cape Canaveral,Florida,,,,True
+183,Starlink 4-2 (v1.5) & Blue Walker 3,2022-09-11 01:10:00+00:00,28.6080585,,Falcon 9,Satellite,13260.0,VLEO,Cape Canaveral,Florida,,,,True
+184,Starlink 4-34 (v1.5),2022-09-17 01:05:00+00:00,28.5618571,,Falcon 9,Satellite,13260.0,VLEO,Cape Canaveral,Florida,,,,True
+185,Starlink 4-35 (v1.5),2022-09-24 23:30:00+00:00,28.5618571,,Falcon 9,Satellite,13260.0,VLEO,Cape Canaveral,Florida,,,,True
+186,Crew-5,2022-10-05 16:00:00+00:00,28.6080585,,Falcon 9,Crew Dragon,,ISS,Cape Canaveral,Florida,,,,True
+187,USSF-44,2022-11-01 13:41:00+00:00,28.6080585,,Falcon Heavy,Satellite,3700.0,GTO,Cape Canaveral,Florida,,,,
+188,Starlink 4-36 (v1.5),2022-10-20 14:50:00+00:00,28.5618571,,Falcon 9,Satellite,13260.0,VLEO,Cape Canaveral,Florida,,,,
+189,Galaxy 33 (15R) & 34 (12R),2022-10-08 23:05:00+00:00,28.5618571,,Falcon 9,,,,Cape Canaveral,Florida,,,,
+190,Hotbird 13F,2022-10-15 05:22:00+00:00,28.5618571,,Falcon 9,,,,Cape Canaveral,Florida,,,,
+191,Hotbird 13G,2022-11-03 03:24:00+00:00,28.5618571,,Falcon 9,,,,Cape Canaveral,Florida,,,,
+192,Galaxy 31 (23R) & 32 (17R),2022-11-08 00:00:00+00:00,28.5618571,,Falcon 9,,,,Cape Canaveral,Florida,,,,
+193,Eutelsat 10B,2022-11-15 00:00:00+00:00,28.5618571,,Falcon 9,,,,Cape Canaveral,Florida,,,,
+194,ispace Mission 1 & Rashid,2022-11-22 00:00:00+00:00,28.5618571,,Falcon 9,,,,Cape Canaveral,Florida,,,,
+195,CRS-26,2022-11-18 22:00:00+00:00,28.6080585,,Falcon 9,,,,Cape Canaveral,Florida,,,,
+196,Starlink 4-37 (v1.5),2022-11-01 00:00:00+00:00,28.5618571,,Falcon 9,,,,Cape Canaveral,Florida,,,,
+197,"O3b mPower 1,2",2022-11-01 00:00:00+00:00,28.5618571,,Falcon 9,Satellite,5100.0,MEO,Cape Canaveral,Florida,,,,
+198,SWOT,2022-12-05 00:00:00+00:00,34.632093,,Falcon 9,,,,Vandenberg Space Force Base,California,,,,
+199,SES-18 & SES-19,2022-11-01 00:00:00+00:00,28.5618571,,Falcon 9,,,,Cape Canaveral,Florida,,,,
+200,Transporter-6,2022-12-01 00:00:00+00:00,28.5618571,,Falcon 9,,,,Cape Canaveral,Florida,,,,
+201,TTL-1,2022-12-01 00:00:00+00:00,34.632093,,Falcon 9,Satellite,,PO,Vandenberg Space Force Base,California,,,,
+202,WorldView Legion 1 & 2,2022-12-01 00:00:00+00:00,28.5618571,,Falcon 9,Satellite,,SSO,Cape Canaveral,Florida,,,,
+203,Viasat-3 & Arcturus,2022-12-01 00:00:00+00:00,28.6080585,,Falcon Heavy,,,,Cape Canaveral,Florida,,,,
+204,O3b mPower 3.4,2022-12-01 00:00:00+00:00,28.5618571,,Falcon 9,Satellite,5100.0,MEO,Cape Canaveral,Florida,,,,
